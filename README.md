@@ -6,4 +6,5 @@ Credits:
 * See repo description text.
 * polarssl
 * This uses code from/based on libnds/bootmii-MINI/nds-hb-menu.
+* fincs, for finally fixing 4swordshax to run an actual payload which runs boot.nds.
 * ...
